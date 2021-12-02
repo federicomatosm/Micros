@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.Lil.Search.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lil.Sales/Controllers/SalesController.cs">
+    <Files>
+      <File FileName="Lil.Sales/Properties/launchSettings.json" Line="7" Column="26" />
+      <File FileName="Lil.Search/Controllers/SearchController.cs" Line="32" Column="18" />
+      <File FileName="Lil.Search/Services/CustomerService.cs" Line="33" Column="1" />
+      <File FileName="Lil.Search/Services/SalesService.cs" Line="33" Column="1" />
+      <File FileName="Lil.Customers/Controllers/CustomersController.cs" Line="20" Column="53" />
+      <File FileName="Lil.Customers/DAL/CustomerProvider.cs" Line="21" Column="12" />
+      <File FileName="Lil.Customers.Test/CustomersTest.cs" Line="30" Column="62" />
+      <File FileName="Lil.Products/Controllers/ProductsController.cs" Line="28" Column="51" />
+      <File FileName="Lil.Products/DAL/ProductsProvider.cs" Line="25" Column="12" />
+      <File FileName="Lil.Sales/Controllers/SalesController.cs" Line="1" Column="1" />
+      <File FileName="Lil.Sales/DAL/SalesProvider.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lil" expanded="True">
+            <Node name="Lil.Sales" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lil" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/federicomatos/Projects/lil-azure-microservicios/Lil.Search/Controllers/SearchController.cs" relfile="Lil.Search/Controllers/SearchController.cs" line="23" column="9" />
+      <Breakpoint file="/Users/federicomatos/Projects/lil-azure-microservicios/Lil.Search/Services/CustomerService.cs" relfile="Lil.Search/Services/CustomerService.cs" line="18" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+</Properties>
