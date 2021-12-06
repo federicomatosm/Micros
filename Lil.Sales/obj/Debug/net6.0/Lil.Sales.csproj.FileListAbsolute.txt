@@ -10,6 +10,7 @@
 /Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/obj/Debug/net6.0/Lil.Sales.csproj.AssemblyReference.cache
 /Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/obj/Debug/net6.0/Lil.Sales.GeneratedMSBuildEditorConfig.editorconfig
 /Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/obj/Debug/net6.0/Lil.Sales.AssemblyInfoInputs.cache
 /Users/federicomatos/Projects/lil-azure-microservicios/Lil.Sales/obj/Debug/net6.0/Lil.Sales.AssemblyInfo.cs

@@ -1,5 +1,5 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="Multiple Projects">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lil.Sales/Controllers/SalesController.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{35CD6AAA-CE30-405F-ABC8-8B7AADA0C311}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Lil.Sales/Properties/launchSettings.json" Line="7" Column="26" />
       <File FileName="Lil.Search/Services/SalesService.cs" Line="33" Column="1" />
@@ -10,30 +10,21 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lil" expanded="True" selected="True" />
+          <Node name="Lil" expanded="True">
+            <Node name="Lil.Sales" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Lil" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <DisabledProjects>
-    <String>Lil.Customers.Test/Lil.Customers.Test.csproj</String>
-    <String>Lil.Customers/Lil.Customers.csproj</String>
-    <String>Lil.Products.Test/Lil.Products.Test.csproj</String>
-    <String>Lil.Products/Lil.Products.csproj</String>
-    <String>Lil.Sales.Test/Lil.Sales.Test.csproj</String>
-    <String>Lil.Search.Test/Lil.Search.Test.csproj</String>
-    <String>Lil.Search/Lil.Search.csproj</String>
-  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <Breakpoint file="/Users/federicomatos/Projects/lil-azure-microservicios/Lil.Search/Controllers/SearchController.cs" relfile="Lil.Search/Controllers/SearchController.cs" line="23" column="9" />
     <Breakpoint file="/Users/federicomatos/Projects/lil-azure-microservicios/Lil.Search/Services/CustomerService.cs" relfile="Lil.Search/Services/CustomerService.cs" line="18" column="9" />
